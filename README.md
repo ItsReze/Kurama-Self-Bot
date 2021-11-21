@@ -1,17 +1,4 @@
 
-
-
-# Karuma
-
-![](https://media.discordapp.net/attachments/890913525017505792/897465363426574357/unknown.png?width=1286&height=717)
-![](https://cdn.discordapp.com/attachments/890913525017505792/891049094133448724/unknown.png)
-> Little preview of the selfbot and the embed
-                
-				
-![](https://img.shields.io/badge/release-v1.7-blue)
-
-
-
 ### Features
 
 - Mass DM Friends (Only available for Humans)
